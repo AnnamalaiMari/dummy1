@@ -1,0 +1,1 @@
+document.body.innerHTML = ' <h1>New value from MEC <h1> ';
